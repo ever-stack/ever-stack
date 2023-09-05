@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, mobile app development, mechanics design
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on any project.
-- 📫 How to reach me ovchevhen@gmail.com
+- 📫 How to reach me https://www.upwork.com/freelancers/yevheniio6
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ever-stack&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
